@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=no+pain%2C+no+gain)](https://git.io/typing-svg)
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=wzhyhxn)](https://stackoverflow.com/users/6558042/omid-nikrah)
 <!--
 **wzhyhxn/wzhyhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
