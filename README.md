@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=no+pain%2C+no+gain)](https://git.io/typing-svg)
 
-![](https://raw.githubusercontent.com/wzhyhxn/wzhyhxn/main/assets/github-contribution-grid-snake.svg)
-
 <!--
 **wzhyhxn/wzhyhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
